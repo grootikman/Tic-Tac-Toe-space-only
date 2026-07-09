@@ -4,7 +4,7 @@
 
 # 🕹️ Tic-Tac-Toe (Space-Only Edition)
 
-A minimalist, web-based Tic-Tac-Toe game designed specifically for the **Hack Club OneKey** hardware jam. 
+A minimalist, Tic-Tac-Toe game designed specifically for the **Hack Club OneKey** hardware jam. 
 The core philosophy of this project is extreme simplicity: rejecting the matrix of standard keyboard buttons and playing a classic grid game using **only a single key**.
 
 ## 🕹️ How It Works (The OneKey Mechanic)
