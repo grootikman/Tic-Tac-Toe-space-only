@@ -1,5 +1,6 @@
-###How to Use
-Just download the .exe file and run it and practice winning with only one key
+### How to Use
+
+* **Just download the .exe file and run it and practice winning with only one key**
 
 # 🕹️ Tic-Tac-Toe (Space-Only Edition)
 
