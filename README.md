@@ -1,4 +1,4 @@
-# How to Use
+# How to Play it🕹️
 
 * **Just download the .exe file and run it and practice winning with only one key**
 
