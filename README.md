@@ -1,5 +1,5 @@
 # Tic-Tac-Toe (Space-Only)
-### A minimalist, Tic-Tac-Toe game designed specifically for playing with **OneKey**. 
+### A minimalistic, TicTacToe game designed for playing with only **OneKey**. 
 
 # How to Play it
 
